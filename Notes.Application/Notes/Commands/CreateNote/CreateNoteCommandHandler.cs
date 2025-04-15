@@ -1,5 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-using MediatR;
+﻿using MediatR;
 using Notes.Application.Interfaces;
 using Notes.Domain;
 
